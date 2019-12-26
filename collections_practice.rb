@@ -38,7 +38,7 @@ end
 
 def add_s(words) 
  words.each_with_index.collect do |w, index|
-   w[index]=1 puts w
+   w[index]==1 puts w
 
 end
 
