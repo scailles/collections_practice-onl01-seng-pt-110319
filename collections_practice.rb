@@ -29,5 +29,6 @@ names.each do |w|
 end
 
 def fine_a(words)
-  words.select 
+  words.select {|w| w[0]="a"}
+end
   
