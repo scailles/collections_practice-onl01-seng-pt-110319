@@ -43,6 +43,7 @@ def add_s(words)
     else 
       puts w+"s"
 end
+puts words
 end
  end
   
