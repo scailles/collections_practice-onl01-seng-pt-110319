@@ -34,4 +34,5 @@ end
 
 def sum_array
   array.inject {|acc, n| acc+n}
+end
   
