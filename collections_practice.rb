@@ -28,5 +28,5 @@ names.each do |w|
   end
 end
 
-
+def fine_a(words)
   
