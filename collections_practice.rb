@@ -41,6 +41,6 @@ def add_s(words)
    w[index]==1 puts w
 
 end
-
+end
  
   
