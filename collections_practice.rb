@@ -38,7 +38,7 @@ end
 
 def add_s(words) 
  words.each_with_index.collect do |w, index|
-   if index[==1
+   if index==1
       puts w
     else 
       puts w+"s"
