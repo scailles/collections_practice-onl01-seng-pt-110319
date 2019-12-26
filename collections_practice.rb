@@ -40,7 +40,8 @@ def add_s(array)
  array.each_with_index.collect do |w, index|
    w[0||3>=] + "s"
  end
-
+end
+end
 
  
   
