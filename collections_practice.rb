@@ -28,7 +28,7 @@ names.each do |w|
   end
 end
 
-def fine_a(words)
+def find_a(words)
   words.select {|w| w[0]="a"}
 end
   
