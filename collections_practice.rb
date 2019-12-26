@@ -29,6 +29,6 @@ names.each do |w|
 end
 
 def find_a(words)
-  words.select {|w| w[0]="a"}
+  words.select {|w| w[0]=="a"}
 end
   
