@@ -31,4 +31,7 @@ end
 def find_a(words)
   words.select {|w| w[0]=="a"}
 end
+
+def sum_array
+  
   
