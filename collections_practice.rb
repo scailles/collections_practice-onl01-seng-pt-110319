@@ -32,7 +32,7 @@ def find_a(words)
   words.select {|w| w[0]=="a"}
 end
 
-def sum_array
+def sum_array(array)
   array.inject {|acc, n| acc+n}
 end
   
