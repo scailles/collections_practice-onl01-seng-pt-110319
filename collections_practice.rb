@@ -36,8 +36,8 @@ def sum_array(array)
   array.inject {|acc, n| acc+n}
 end
 
-def add_s(array) 
- array.each_with_index.collect do |w, index|
+def add_s(words) 
+ words.each_with_index.collect do |w, index|
    if w[index]=1
      puts w
    else 
