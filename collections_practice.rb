@@ -43,5 +43,6 @@ def add_s(words)
    else index=1
     puts w
  end
- 
+ end
+ end
   
