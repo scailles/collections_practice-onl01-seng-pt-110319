@@ -41,6 +41,7 @@ def add_s(words)
    if index=0||index>=2
      w+"s"
      if index=1
+       w
  end
  end
  end
